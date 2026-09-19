@@ -1,0 +1,8 @@
+waiter order ✅
+final receipt preview ✅
+test room from customer ✅
+review ✅
+review admin ✅
+admin dashboard ✅
+Contact Form Connection for email
+Responsive (optional)
