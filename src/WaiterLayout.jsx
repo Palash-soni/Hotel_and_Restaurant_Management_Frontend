@@ -1,5 +1,5 @@
 import React from 'react'
-import TopBar from './components/waiter/Topbar'
+import TopBar from './components/waiter/TopBar'
 import { Outlet } from 'react-router-dom'
 
 const WaiterLayout = () => {
